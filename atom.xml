@@ -4,7 +4,7 @@
     <title> - Articles</title>
     <description>지식을 머리에 복붙하는 블로그</description>
     <link>
-    http://localhost:4000</link>
+    https://bejjangi.github.io</link>
     
       
       <item>
@@ -20,8 +20,8 @@
         
         <pubDate>Wed, 22 Jul 2020 01:40:00 +0900</pubDate>
         <link>
-        http://localhost:4000/python-control-statement</link>
-        <guid isPermaLink="true">http://localhost:4000/python-control-statement</guid>
+        https://bejjangi.github.io/python-control-statement</link>
+        <guid isPermaLink="true">https://bejjangi.github.io/python-control-statement</guid>
       </item>
       
     
@@ -34,8 +34,8 @@
         
         <pubDate>Wed, 22 Jul 2020 01:40:00 +0900</pubDate>
         <link>
-        http://localhost:4000/jekyll-basic</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll-basic</guid>
+        https://bejjangi.github.io/jekyll-basic</link>
+        <guid isPermaLink="true">https://bejjangi.github.io/jekyll-basic</guid>
       </item>
       
     
@@ -53,8 +53,8 @@
         
         <pubDate>Tue, 21 Jul 2020 01:40:00 +0900</pubDate>
         <link>
-        http://localhost:4000/python-basic</link>
-        <guid isPermaLink="true">http://localhost:4000/python-basic</guid>
+        https://bejjangi.github.io/python-basic</link>
+        <guid isPermaLink="true">https://bejjangi.github.io/python-basic</guid>
       </item>
       
     
@@ -68,8 +68,8 @@
         
         <pubDate>Thu, 19 Nov 1863 19:18:00 +0900</pubDate>
         <link>
-        http://localhost:4000/gettysburg-address</link>
-        <guid isPermaLink="true">http://localhost:4000/gettysburg-address</guid>
+        https://bejjangi.github.io/gettysburg-address</link>
+        <guid isPermaLink="true">https://bejjangi.github.io/gettysburg-address</guid>
       </item>
       
     

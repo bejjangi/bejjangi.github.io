@@ -2,10 +2,10 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom" >
   <generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator>
-  <link href="http://localhost:4000/author/bejjangi/feed.xml" rel="self" type="application/atom+xml" />
-  <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2024-08-31T12:35:31+09:00</updated>
-  <id>http://localhost:4000/author/bejjangi/feed.xml</id>
+  <link href="https://bejjangi.github.io/author/bejjangi/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="https://bejjangi.github.io/" rel="alternate" type="text/html" />
+  <updated>2024-08-31T13:36:08+09:00</updated>
+  <id>https://bejjangi.github.io/author/bejjangi/feed.xml</id>
 
   
   
@@ -33,11 +33,11 @@
   
     <entry>
       <title type="html">Jekyll 강좌(1) - 블로그를 만들어봅시다</title>
-      <link href="http://localhost:4000/jekyll-basic" rel="alternate" type="text/html" title="Jekyll 강좌(1) - 블로그를 만들어봅시다" />
+      <link href="https://bejjangi.github.io/jekyll-basic" rel="alternate" type="text/html" title="Jekyll 강좌(1) - 블로그를 만들어봅시다" />
       <published>2020-07-22T01:40:00+09:00</published>
       <updated>2020-07-22T01:40:00+09:00</updated>
-      <id>http://localhost:4000/jekyll-basic</id>
-      <content type="html" xml:base="http://localhost:4000/jekyll-basic">&lt;p&gt;이 글은 jekyll basic 입니다.!!&lt;/p&gt;</content>
+      <id>https://bejjangi.github.io/jekyll-basic</id>
+      <content type="html" xml:base="https://bejjangi.github.io/jekyll-basic">&lt;p&gt;이 글은 jekyll basic 입니다.!!&lt;/p&gt;</content>
 
       
       
@@ -67,11 +67,11 @@
   
     <entry>
       <title type="html">Python 강좌(2) - Python 제어문</title>
-      <link href="http://localhost:4000/python-control-statement" rel="alternate" type="text/html" title="Python 강좌(2) - Python 제어문" />
+      <link href="https://bejjangi.github.io/python-control-statement" rel="alternate" type="text/html" title="Python 강좌(2) - Python 제어문" />
       <published>2020-07-22T01:40:00+09:00</published>
       <updated>2020-07-22T01:40:00+09:00</updated>
-      <id>http://localhost:4000/python-control-statement</id>
-      <content type="html" xml:base="http://localhost:4000/python-control-statement">&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;Python 강좌는 여러 절로 구성되어 있습니다.&lt;/span&gt;&lt;/p&gt;
+      <id>https://bejjangi.github.io/python-control-statement</id>
+      <content type="html" xml:base="https://bejjangi.github.io/python-control-statement">&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;Python 강좌는 여러 절로 구성되어 있습니다.&lt;/span&gt;&lt;/p&gt;
 &lt;ul class=&quot;table-of-contents-list&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;./python-basic&quot;&gt;Python 강좌(1) - Python 기본&lt;/a&gt; &lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;./python-control-statement&quot;&gt;Python 강좌(2) - Python 제어문&lt;/a&gt; &lt;/li&gt;
@@ -107,11 +107,11 @@
   
     <entry>
       <title type="html">Python 강좌(1) - Python 기본</title>
-      <link href="http://localhost:4000/python-basic" rel="alternate" type="text/html" title="Python 강좌(1) - Python 기본" />
+      <link href="https://bejjangi.github.io/python-basic" rel="alternate" type="text/html" title="Python 강좌(1) - Python 기본" />
       <published>2020-07-21T01:40:00+09:00</published>
       <updated>2020-07-21T01:40:00+09:00</updated>
-      <id>http://localhost:4000/python-basic</id>
-      <content type="html" xml:base="http://localhost:4000/python-basic">&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;Python 강좌는 여러 절로 구성되어 있습니다.&lt;/span&gt;&lt;/p&gt;
+      <id>https://bejjangi.github.io/python-basic</id>
+      <content type="html" xml:base="https://bejjangi.github.io/python-basic">&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;Python 강좌는 여러 절로 구성되어 있습니다.&lt;/span&gt;&lt;/p&gt;
 &lt;ul class=&quot;table-of-contents-list&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;./python-basic&quot;&gt;Python 강좌(1) - Python 기본&lt;/a&gt; &lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;./python-control-statement&quot;&gt;Python 강좌(2) - Python 제어문&lt;/a&gt; &lt;/li&gt;
